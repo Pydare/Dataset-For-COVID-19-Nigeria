@@ -1,14 +1,15 @@
 States Affected,No. of Cases (Lab Confirmed),No. of Active Cases,No. Discharged,No of Deaths
-Lagos,657,525,116,16
+Lagos,689,548,122,19
 Abuja FCT,138,100,35,3
-Kano,73,72,0,1
+Kano,77,76,0,1
 Ogun,35,29,5,1
 Gombe,30,30,0,0
-Katsina,21,20,0,1
-Osun,20,2,18,0
+Katsina,30,25,4,1
+Osun,32,14,18,0
+Edo,22,12,7,3
+Borno,30,28,0,2
 Oyo,18,12,5,1
-Edo,19,9,7,3
-Borno,12,10,0,2
 Kwara,11,9,2,0
-Akwa Ibom,11,7,3,1
+Akwa Ibom,11,4,6,1
+Bauchi,11,6,5,0
 Kaduna,10,6,4,0
